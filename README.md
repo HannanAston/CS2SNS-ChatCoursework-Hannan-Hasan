@@ -10,7 +10,7 @@ Members:
 
 ## Design Diagram (Figure 1)
 
-![design diagram](images/design-diagram.png)
+![design diagram](images/diagram.png)
 
 ## Requirements
 
