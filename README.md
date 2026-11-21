@@ -8,6 +8,10 @@ Members:
 
 - Hasan Waheed (240184904)
 
+## Design Diagram (Figure 1)
+
+![design diagram](images/design-diagram.png)
+
 ## Requirements
 
 - JDK 17 or newer (`java -version`)
